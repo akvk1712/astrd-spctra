@@ -1,4 +1,5 @@
 # astrd-spctra
+
 # Asteroid Taxonomy Spectra Classification
 
 ## Overview
@@ -20,7 +21,7 @@ In essence, asteroid spectra serve as the foundation for our data-driven approac
 
 ## Table of Contents
 
-1. [Requirements](#requirements)
+1. [Requirements](#requirement)
 2. [Installation](#installation)
 3. [Data](#data)
 4. [Approach](#approach)
@@ -110,5 +111,6 @@ My decision to employ Keras Tuner for hyperparameter optimization yielded substa
 My journey in this project sets the stage for future research and exploration in the captivating realm of asteroid taxonomy and spectral classification. As I move forward, my focus will revolve around refining the unsupervised clustering analysis with autoencoders to unearth even more intricate structures within the data. Additionally, I am committed to expanding the dataset and exploring advanced machine learning models to further elevate classification accuracy.
 
 In conclusion, this project signifies a significant stride in the classification and analysis of asteroid taxonomy spectra. It represents my enduring commitment to contributing valuable insights to the captivating fields of planetary science and astronomy.
+Quite a special niche here combining the mysteries of astronomy and machine learning to fuel the drive for humanity. Thanks to Astroniz i was able to tap into this and help me take inspiration from his videos.
  
 
